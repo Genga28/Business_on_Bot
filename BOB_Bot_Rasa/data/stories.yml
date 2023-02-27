@@ -1,0 +1,54 @@
+version: "3.1"
+
+stories:
+- story: Addition
+  steps:
+  - intent: addition
+  - action: utter_ask_num1
+  - intent: number
+    entities:
+    - num1: 5
+  - action: utter_ask_num2
+  - intent: number
+    entities:
+    - num2: 3
+  - action: action_calculate
+
+- story: Subtraction
+  steps:
+  - intent: subtraction
+  - action: utter_ask_num1
+  - intent: number
+    entities:
+    - num1: 5
+  - action: utter_ask_num2
+  - intent: number
+    entities:
+    - num2: 3
+  - action: action_calculate
+
+- story: Multiplication
+  steps:
+  - intent: multiplication
+  - action: utter_ask_num1
+  - intent: number
+    entities:
+    - num1: 5
+  - action: utter_ask_num2
+  - intent: number
+    entities:
+    - num2: 3
+  - action: action_calculate
+
+- story: Division
+  steps:
+  - intent: division
+  - action: utter_ask_num1
+  - intent: number
+    entities:
+    - num1: 6
+  - action: utter_ask_num2
+  - intent: number
+    entities:
+    - num2: 2
+  - action: action_calculate

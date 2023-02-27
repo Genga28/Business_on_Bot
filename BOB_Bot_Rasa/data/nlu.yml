@@ -1,0 +1,25 @@
+version: "3.1"
+nlu:
+- intent: addition
+  examples: |
+    - What is the sum of [5](num1) and [3](num2)?
+    - Add [5](num1) and [3](num2)
+    - [5](num1) plus [3](num2)
+- intent: subtraction
+  examples: |
+    - What is the difference between [5](num1) and [3](num2)?
+    - Subtract [3](num2) from [5](num1)
+- intent: multiplication
+  examples: |
+    - What is [5](num1) times [3](num2)?
+    - Multiply [5](num1) by [3](num2)
+- intent: division
+  examples: |
+    - What is [6](num1) divided by [2](num2)?
+    - Divide [6](num1) by [2](num2)
+- intent: number
+  examples: |
+    - [5](num1)
+    - [3](num2)
+    - [6](num1)
+    - [2](num2)

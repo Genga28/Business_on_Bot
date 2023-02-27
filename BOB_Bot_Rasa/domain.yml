@@ -1,0 +1,38 @@
+intents:
+  - addition
+  - subtraction
+  - multiplication
+  - division
+  - number
+
+entities:
+  - num1
+  - num2
+
+slots:
+  num1:
+    type: float
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: nums1
+  num2:
+    type: float
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: nums2
+  
+
+responses:
+  utter_ask_num1:
+  - text: "What is the first number?"
+  utter_ask_num2:
+  - text: "What is the second number?"
+
+actions:
+- action_calculate
+
+templates:
+  utter_default:
+  - text: "I'm sorry, I didn't understand. Can you please try again?"
