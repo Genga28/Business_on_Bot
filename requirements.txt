@@ -1,1 +1,1 @@
-streamlit-lotte
+streamlit-lottie
