@@ -51,5 +51,6 @@ step-2: Running the rasa shell
 
 Step-3: Executing the Bot application by giving the input
 
-![image](https://user-images.githubusercontent.com/82211151/221753004-381bb36a-f35d-4ddf-b5e1-b19898a4337a.png)
+![image](https://user-images.githubusercontent.com/82211151/221753526-32d000e5-bb0f-4f44-8091-9fbe931ef789.png)
+
 
