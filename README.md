@@ -2,6 +2,8 @@
 Chatbot application to do basic mathematical operations
 
 # Methods Used:
+
+I have Developed the ChatBot application using $ different methods
     
     - Using ChatterBot Framework
     - Using Python and streamlit Framework
