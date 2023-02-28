@@ -8,7 +8,7 @@ Chatbot application to do basic mathematical operations
     
 # Method-1 : Using Stremlit and python   
 
-**You can see my appplication throught this link:
+You can see my appplication throught this link:
 
 https://genga28-business-on-bot-calculator-bot.streamlit.app/
 
@@ -31,7 +31,7 @@ https://genga28-business-on-bot-calculator-bot.streamlit.app/
 ![image](https://user-images.githubusercontent.com/82211151/221632932-6be82062-90bb-47b4-9af2-e220d2f717d1.png)
 
 
-2.Output using sinlge line input
+2.Output using single line input
 
 ![image](https://user-images.githubusercontent.com/82211151/221749991-fdbbc6df-8445-4c84-9518-80f2db00e50c.png)
 
@@ -49,7 +49,7 @@ step-2: Running the rasa shell
 ![image](https://user-images.githubusercontent.com/82211151/221752792-bf03e020-f3ea-488a-a0cf-c98de2ac6018.png)
 
 
-Step-3: Executing the Bot pplication by giving the input
+Step-3: Executing the Bot application by giving the input
 
 ![image](https://user-images.githubusercontent.com/82211151/221753004-381bb36a-f35d-4ddf-b5e1-b19898a4337a.png)
 
