@@ -49,4 +49,7 @@ step-2: Running the rasa shell
 ![image](https://user-images.githubusercontent.com/82211151/221752792-bf03e020-f3ea-488a-a0cf-c98de2ac6018.png)
 
 
-Step-3:
+Step-3: Executing the Bot pplication by giving the input
+
+![image](https://user-images.githubusercontent.com/82211151/221753004-381bb36a-f35d-4ddf-b5e1-b19898a4337a.png)
+
