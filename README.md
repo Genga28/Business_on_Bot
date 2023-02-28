@@ -13,6 +13,7 @@ https://genga28-business-on-bot-calculator-bot.streamlit.app/
 
 # Output Images Step by step
 
+1.Output using multiline input 
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/82211151/221632399-6a08189e-75df-4bde-aeb9-cf82c62bde95.gif)
 
@@ -27,3 +28,8 @@ https://genga28-business-on-bot-calculator-bot.streamlit.app/
 
 
 ![image](https://user-images.githubusercontent.com/82211151/221632932-6be82062-90bb-47b4-9af2-e220d2f717d1.png)
+
+
+2.Output using singe line input
+
+![image](https://user-images.githubusercontent.com/82211151/221749991-fdbbc6df-8445-4c84-9518-80f2db00e50c.png)
