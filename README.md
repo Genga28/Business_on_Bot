@@ -8,7 +8,7 @@ Chatbot application to do basic mathematical operations
     
 # Method-1 : Using Stremlit and python   
 
-*You can see my appplication throught this link:
+**You can see my appplication throught this link:
 
 https://genga28-business-on-bot-calculator-bot.streamlit.app/
 
