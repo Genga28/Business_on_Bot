@@ -23,7 +23,7 @@ Chatbot application to do basic mathematical operations
 ![image](https://user-images.githubusercontent.com/82211151/221767622-fbc4a1ee-9ff7-4762-8b4c-4f83b7afe7aa.png)
 
 
-# Method-2 : Using Stremlit and python   
+# Method-2 : Using Streamlit and python   
 
 You can see my appplication throught this link:
 
