@@ -3,8 +3,8 @@ Chatbot application to do basic mathematical operations
 
 # Methods Used:
     
-    - Using Python and streamlit Framework
     - Using ChatterBot Framework
+    - Using Python and streamlit Framework
     - Using RASA
 
 # Method - 1: using ChatterBot
