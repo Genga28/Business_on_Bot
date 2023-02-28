@@ -4,6 +4,7 @@ Chatbot application to do basic mathematical operations
 # Methods Used:
     
     - Using Python and streamlit Framework
+    - Using ChatterBot Framework
     - Using RASA
     
 # Method-1 : Using Stremlit and python   
@@ -35,6 +36,10 @@ https://genga28-business-on-bot-calculator-bot.streamlit.app/
 
 ![image](https://user-images.githubusercontent.com/82211151/221749991-fdbbc6df-8445-4c84-9518-80f2db00e50c.png)
 
+# Method - 3: using ChatterBot
+
+![image](https://user-images.githubusercontent.com/82211151/221763519-39f2f6d1-f6c9-4dff-b5b6-ddc736f01803.png)
+
 
 # Method - 2: Using RASA
 
@@ -59,3 +64,4 @@ Localhost output:
 
 
 
+ 
