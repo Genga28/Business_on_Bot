@@ -8,7 +8,7 @@ I have Developed the ChatBot application using 4 different methods
     - Using ChatterBot Framework
     - Using Python and streamlit Framework
     - Using RASA
-    - using Javascript
+    - Using Javascript
 
 # Method - 1: using ChatterBot
 
