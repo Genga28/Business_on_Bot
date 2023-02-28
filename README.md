@@ -20,8 +20,6 @@ Chatbot application to do basic mathematical operations
 
 ![image](https://user-images.githubusercontent.com/82211151/221764106-084c4d93-58da-4e4c-8836-c84a9e568529.png)
 
-![image](https://user-images.githubusercontent.com/82211151/221764170-719c8c34-5b21-4c89-9acd-f500f5b075a6.png)
-
 ![image](https://user-images.githubusercontent.com/82211151/221767622-fbc4a1ee-9ff7-4762-8b4c-4f83b7afe7aa.png)
 
 
