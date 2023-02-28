@@ -40,7 +40,13 @@ https://genga28-business-on-bot-calculator-bot.streamlit.app/
 
 The outputs are given by
 
-Step-1:
-Training the model
+Step-1: Training the model
 
 ![image](https://user-images.githubusercontent.com/82211151/221752435-4feac8d0-ddc1-40fd-81e6-6779e47a611e.png)
+
+step-2: Running the rasa shell
+
+![image](https://user-images.githubusercontent.com/82211151/221752792-bf03e020-f3ea-488a-a0cf-c98de2ac6018.png)
+
+
+Step-3:
