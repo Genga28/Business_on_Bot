@@ -39,3 +39,9 @@ https://genga28-business-on-bot-calculator-bot.streamlit.app/
 # Method - 2: Using RASA
 
 The outputs are given by
+
+***Step-1:
+Training the model
+
+![image](https://user-images.githubusercontent.com/82211151/221752310-e5d4aa46-4f8d-4309-8623-296e4a23e4e3.png)
+
