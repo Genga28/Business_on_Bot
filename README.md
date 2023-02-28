@@ -33,3 +33,8 @@ https://genga28-business-on-bot-calculator-bot.streamlit.app/
 2.Output using singe line input
 
 ![image](https://user-images.githubusercontent.com/82211151/221749991-fdbbc6df-8445-4c84-9518-80f2db00e50c.png)
+
+
+# Method - 2: Using RASA
+
+the outputs are given by
