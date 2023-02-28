@@ -6,6 +6,7 @@ Chatbot application to do basic mathematical operations
     - Using ChatterBot Framework
     - Using Python and streamlit Framework
     - Using RASA
+    - using Javascript
 
 # Method - 1: using ChatterBot
 
@@ -76,6 +77,9 @@ Localhost output:
 
 ![image](https://user-images.githubusercontent.com/82211151/221754593-185d47f3-7b67-4787-993c-44252cff684f.png)
 
+# Method 4: Using Javascript
+
+![image](https://user-images.githubusercontent.com/82211151/221829498-58d329e7-0962-44da-8a58-05a5f786cad9.png)
 
 
  
