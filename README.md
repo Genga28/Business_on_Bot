@@ -36,12 +36,14 @@ https://genga28-business-on-bot-calculator-bot.streamlit.app/
 
 ![image](https://user-images.githubusercontent.com/82211151/221749991-fdbbc6df-8445-4c84-9518-80f2db00e50c.png)
 
-# Method - 3: using ChatterBot
+# Method - 2: using ChatterBot
 
-![image](https://user-images.githubusercontent.com/82211151/221763519-39f2f6d1-f6c9-4dff-b5b6-ddc736f01803.png)
+![image](https://user-images.githubusercontent.com/82211151/221764106-084c4d93-58da-4e4c-8836-c84a9e568529.png)
+
+![image](https://user-images.githubusercontent.com/82211151/221764170-719c8c34-5b21-4c89-9acd-f500f5b075a6.png)
 
 
-# Method - 2: Using RASA
+# Method - 3: Using RASA
 
 The outputs are given by
 
