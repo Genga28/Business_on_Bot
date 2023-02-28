@@ -70,6 +70,8 @@ Step-3: Executing the Bot application by giving the input
 
 ![image](https://user-images.githubusercontent.com/82211151/221753526-32d000e5-bb0f-4f44-8091-9fbe931ef789.png)
 
+still working on training the model to improve the accuracy
+
 Localhost output:
 
 ![image](https://user-images.githubusercontent.com/82211151/221754593-185d47f3-7b67-4787-993c-44252cff684f.png)
