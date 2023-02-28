@@ -6,8 +6,27 @@ Chatbot application to do basic mathematical operations
     - Using Python and streamlit Framework
     - Using ChatterBot Framework
     - Using RASA
-    
-# Method-1 : Using Stremlit and python   
+
+# Method - 1: using ChatterBot
+
+    •	This bot is designed to perform mathematical calculations as it uses the 
+        "chatterbot.logic.MathematicalEvaluation" module as its logic adapter.
+
+    •	The bot's responses are stored in an SQL database 
+        using the "chatterbot.storage.SQLStorageAdapter" module.
+
+    •	The user input is passed to the bot using the "Bot.get_response()" method, 
+        which processes the input and generates a response
+
+
+![image](https://user-images.githubusercontent.com/82211151/221764106-084c4d93-58da-4e4c-8836-c84a9e568529.png)
+
+![image](https://user-images.githubusercontent.com/82211151/221764170-719c8c34-5b21-4c89-9acd-f500f5b075a6.png)
+
+![image](https://user-images.githubusercontent.com/82211151/221767622-fbc4a1ee-9ff7-4762-8b4c-4f83b7afe7aa.png)
+
+
+# Method-2 : Using Stremlit and python   
 
 You can see my appplication throught this link:
 
@@ -35,24 +54,6 @@ https://genga28-business-on-bot-calculator-bot.streamlit.app/
 2.Output using single line input
 
 ![image](https://user-images.githubusercontent.com/82211151/221749991-fdbbc6df-8445-4c84-9518-80f2db00e50c.png)
-
-# Method - 2: using ChatterBot
-
-    •	This bot is designed to perform mathematical calculations as 
-        it uses the "chatterbot.logic.MathematicalEvaluation" module as its logic adapter.
-
-    •	The bot's responses are stored in an SQL database 
-        using the "chatterbot.storage.SQLStorageAdapter" module.
-
-    •	The user input is passed to the bot using the "Bot.get_response()" method, 
-        which processes the input and generates a response
-
-
-![image](https://user-images.githubusercontent.com/82211151/221764106-084c4d93-58da-4e4c-8836-c84a9e568529.png)
-
-![image](https://user-images.githubusercontent.com/82211151/221764170-719c8c34-5b21-4c89-9acd-f500f5b075a6.png)
-
-![image](https://user-images.githubusercontent.com/82211151/221767622-fbc4a1ee-9ff7-4762-8b4c-4f83b7afe7aa.png)
 
 
 # Method - 3: Using RASA
