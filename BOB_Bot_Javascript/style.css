@@ -1,0 +1,40 @@
+.container {
+	margin: 0 auto;
+	padding: 20px;
+	max-width: 500px;
+	text-align: center;
+}
+
+h1 {
+	margin-top: 0;
+}
+
+#chatbot {
+	background-color: #F9F9F9;
+	border: 1px solid #CCCCCC;
+	height: 300px;
+	margin-bottom: 10px;
+	overflow-y: scroll;
+	padding: 10px;
+}
+
+#input {
+	display: flex;
+	align-items: center;
+}
+
+#message {
+	flex: 1;
+	height: 40px;
+	margin-right: 10px;
+	padding: 10px;
+}
+
+#send {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	cursor: pointer;
+	height: 40px;
+	padding: 10px 20px;
+}
