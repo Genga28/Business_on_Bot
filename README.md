@@ -38,6 +38,13 @@ https://genga28-business-on-bot-calculator-bot.streamlit.app/
 
 # Method - 2: using ChatterBot
 
+    •	This bot is designed to perform mathematical calculations as it uses the "chatterbot.logic.MathematicalEvaluation" module as its logic adapter.
+
+    •	The bot's responses are stored in an SQL database using the "chatterbot.storage.SQLStorageAdapter" module.
+
+    •	The user input is passed to the bot using the "Bot.get_response()" method, which processes the input and generates a response
+
+
 ![image](https://user-images.githubusercontent.com/82211151/221764106-084c4d93-58da-4e4c-8836-c84a9e568529.png)
 
 ![image](https://user-images.githubusercontent.com/82211151/221764170-719c8c34-5b21-4c89-9acd-f500f5b075a6.png)
